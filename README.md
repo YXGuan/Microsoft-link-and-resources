@@ -1,15 +1,22 @@
-### Philosophy 
-- Community based engagement --> intensively focus on product and service
-- Open source & open hardware --> a platform for anyone to learn about robotics and connect with people
+### Power BI
+- 
+- 
 
-### Goal
--  allow the robot to disinfect by 1. remote control through wifi/ bluetooth 2. autonomous 
+### Power Automate
+-  
 
-### Go to Issues and see what some problems you could work on
-### Send me an e-mail if you have any question / critiques / ideas --> guany27@mcmaster.ca or book a [chat](https://calendly.com/gyx/30min)
+### SharePoint
 
+
+### Viva Connect
+- Topics https://www.youtube.com/watch?v=bHR_cXZi-yE&list=PLR9nK3mnD-OXYEVirlqaEFHzZ3mqDxEij&index=14
+
+
+### Teams
+- Privacy https://www.youtube.com/watch?v=vgfTUk7_Fxk
 
 ------------------------------
+#Amazing Youtubers
 ### [video presentation](https://www.youtube.com/watch?v=QKO-qRm2GsA)
 ###
 
