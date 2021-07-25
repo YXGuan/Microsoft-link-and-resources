@@ -1,5 +1,3 @@
-# disinfection_robot
-
 ### Philosophy 
 - Community based engagement --> intensively focus on product and service
 - Open source & open hardware --> a platform for anyone to learn about robotics and connect with people
