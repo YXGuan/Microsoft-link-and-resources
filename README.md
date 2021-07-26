@@ -1,14 +1,14 @@
 ### Power BI - Business inteligence
-- 
-- 
+- Playground, a place to mess around with PowerBi, explore better UI design and build your APIs, https://playground.powerbi.com/
 
 ### Power Apps
-
+- 
 
 ### Power Automate - Automate your work flow
 -  
 
 ### SharePoint - Collaboration + Onedrive
+- 
 
 
 ### Viva Connect 
