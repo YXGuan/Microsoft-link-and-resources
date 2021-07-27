@@ -1,14 +1,18 @@
+1st: get yourself a developer subscription
+[instruction]( https://docs.microsoft.com/en-us/office/developer-program/build-microsoft-365-solutions
+)
+
 ### Power BI - Business inteligence
 - Playground, a place to mess around with PowerBi, explore better UI design and build your APIs, https://playground.powerbi.com/
 
 ### Power Apps
-- 
+- DataVerse
 
 ### Power Automate - Automate your work flow
 -  
 
 ### SharePoint - Collaboration + Onedrive
-- 
+- Look Book https://lookbook.microsoft.com/#templates
 
 
 ### Viva Connect 
@@ -25,15 +29,24 @@
 ### Teams
 - Privacy https://www.youtube.com/watch?v=vgfTUk7_Fxk
 
-### PNP
+### PNP - MS official developer community
 - https://pnp.github.io/#community
+- Demo buddy https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u
+- First time contributor https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u
+
+### Graph API 
+- Build a custom connector for Microsoft Graph API - Power Platform Community
 
 
 ### Fast Track - Accelerate migration process
-- 
+- https://fasttrack.microsoft.com/
 
 
 ### Amazing Youtubers
+Guy in a cube - Power BI
+April Dunnam - Power apps
+Oliver Bloch - Azure IoT
+
 
 ------------------------------
 What would you recommend?
