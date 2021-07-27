@@ -1,4 +1,4 @@
-1st: get yourself a developer subscription
+1st step: get yourself a developer subscription
 [instruction]( https://docs.microsoft.com/en-us/office/developer-program/build-microsoft-365-solutions
 )
 
