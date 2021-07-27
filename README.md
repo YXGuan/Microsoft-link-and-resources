@@ -43,9 +43,9 @@
 
 
 ### Amazing Youtubers
-Guy in a cube - Power BI
-April Dunnam - Power apps
-Oliver Bloch - Azure IoT
+- Guy in a cube - Power BI
+- April Dunnam - Power apps
+- Oliver Bloch - Azure IoT
 
 
 ------------------------------
